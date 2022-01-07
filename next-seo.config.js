@@ -1,26 +1,26 @@
 export default {
   title: "Deepak Negi | Personal Portfolio",
   description: "front-end developer.",
-  canonical: "", // site's url
+  canonical: "https://st.deepak.codework.codes/", // site's url
   openGraph: {
-    url: "", // site's url
+    url: "https://st.deepak.codework.codes/", // site's url
     title: "Deepak Negi | Personal Portfolio",
     description: "front-end developer.",
     images: [
       {
-        url: "",
+        url: "https://st.deepak.codework.codes/images/screen.png",
         width: 800,
         height: 600,
         alt: "Og Image Alt",
       },
       {
-        url: "",
+        url: "https://st.deepak.codework.codes/images/screen.png",
         width: 800,
         height: 800,
         alt: "Og Image Alt 2",
       },
       {
-        url: "",
+        url: "https://st.deepak.codework.codes/images/screen.png",
         width: 900,
         height: 800,
         alt: "Og Image Alt 3",
