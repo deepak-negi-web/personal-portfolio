@@ -1,0 +1,48 @@
+{
+  "headTitle": "Welcome home",
+  "hero": {
+    "title": "Hi, I'm Deepak Negi!",
+    "p0": "Front-end Developer",
+    "p1": "Currently SDE-I at",
+    "p2": "Previously",
+    "des0": "I am a graduate in Bachelor Of Technology majoring in Electronics and Communication Engineering.",
+    "des1": "I enjoy building high-quality products with a complex logic behind it.",
+    "des2": "My technology stack includes React, Node/Express, MongoDb and Hasura.",
+    "des3": "I am also currently learning more about Svelte and React Native."
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "Here are some of my most favourite projects that I enjoyed coding and designing from scratch.",
+    "codework": {
+      "subtitle": "An online editor",
+      "description": "CodeWork is an online code editor with features like user‑created HTML, CSS and JavaScript code templates, personal dashboard etc."
+    },
+    "collegehub": {
+      "subtitle": "An educational platform",
+      "description": "CollegeHub is an educational platform related to colleges and admissions. Its a CMS driven website with feature like admin dashboard to add college/courses/categories etc."
+    },
+    "nuskha": {
+      "subtitle": "A Food Recipe App",
+      "description": "Nuskha is a Food recipe app where user can read and publish recipes"
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "description": "I am passionate about using cutting-edge technologies. These are the tools I am most familiar with and build things every day."
+  },
+  "experience": {
+    "title": "Experience",
+    "description": "Here are some great companies I had the honour to join for working on various interesting projects."
+  },
+  "contact": {
+    "title": "Wanna reach out?",
+    "description": "Feel free to drop me a message if you have some interesting offer or you want to hang out."
+  },
+  "currently": "Currently",
+  "citation": {
+    "content": "Hustler are not born, they are made",
+    "author": "Unknown"
+  },
+  "covid19": "Postponed due to Covid-19",
+  "and": "and"
+}
