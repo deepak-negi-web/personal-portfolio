@@ -8,19 +8,19 @@ export default {
     description: "front-end developer.",
     images: [
       {
-        url: "https://st.deepak.codework.codes/images/screen.png",
+        url: "./public/images/screen.avif",
         width: 800,
         height: 600,
         alt: "Og Image Alt",
       },
       {
-        url: "https://st.deepak.codework.codes/images/screen.png",
+        url: "./public/images/screen.avif",
         width: 800,
         height: 800,
         alt: "Og Image Alt 2",
       },
       {
-        url: "https://st.deepak.codework.codes/images/screen.png",
+        url: "./public/images/screen.avif",
         width: 900,
         height: 800,
         alt: "Og Image Alt 3",

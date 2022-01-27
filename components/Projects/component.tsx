@@ -16,7 +16,7 @@ export const Projects: FC = () => {
         technologies: ["NextJs", "Postgres", "GraphQL", "Hasura"],
         externalLink: "https://beta.codework.codes/",
         githubLink: "https://github.com/deepak-negi-web/codepen-clone",
-        imageLink: `/images/codework.png`,
+        imageLink: `/images/codework.avif`,
       },
       {
         title: "CollegeHub",
@@ -25,7 +25,7 @@ export const Projects: FC = () => {
         technologies: ["React", "Graphql", "Hasura"],
         externalLink: "https://collegehub.netlify.app/",
         githubLink: "https://github.com/deepak-negi-web/collegeHub",
-        imageLink: `/images/collegehub.png`,
+        imageLink: `/images/collegehub.avif`,
       },
       {
         title: "Nuskha",
@@ -34,7 +34,7 @@ export const Projects: FC = () => {
         technologies: ["React", "MongoDb", "Firebase"],
         externalLink: "https://nuskha-your-own-recipe.web.app/",
         githubLink: "https://github.com/deepak-negi-web/next-recipe-app",
-        imageLink: `/images/nuskha.png`,
+        imageLink: `/images/nuskha.avif`,
       },
     ],
     [t]

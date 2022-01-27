@@ -5,7 +5,7 @@
    Built with <a href="https://www.nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://www.vercel.com/" target="_blank">Vercel</a>
 </p>
 
-![demo](./public/images/screen.png)
+![demo](./public/images/screen.avif)
 
 ## 🛠 Wanna run on your machine?
 

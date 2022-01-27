@@ -13,7 +13,7 @@ export const Hero: FC = () => {
   return (
     <Container className="pt-24 md:pt-32">
       <motion.img
-        src="/images/me2.png"
+        src="/images/me2.avif"
         alt="me"
         className="border border-gray-700 rounded-full w-28 h-28 md:w-32 md:h-32 mt-36"
         variants={{
