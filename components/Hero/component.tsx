@@ -44,10 +44,10 @@ export const Hero: FC = () => {
         {t("hero.p0")}
         <br />
         {t("hero.p1")}{" "}
-        <HeroLink title="Dailykit" href="https://www.dailykit.org" />
+        <HeroLink title="Alterest" href="https://www.alterest.co/" />
         <br />
-        {/* {t("hero.p2")} <HeroLink title="Pixsuit" href="https://yandex.ru" />{" "}
-        {t("and")} <HeroLink title="" href="" /> */}
+        {t("hero.p2")}{" "}
+        <HeroLink title="DailyKit" href="https://www.dailykit.org" />{" "}
       </p>
       <div className="flex mt-8">
         <MediaIcon

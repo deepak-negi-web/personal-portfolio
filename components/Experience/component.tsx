@@ -22,8 +22,13 @@ export const Experience: FC = () => {
       },
       {
         title: "SDE 1",
-        place: "Dailykit,New Delhi/Remote",
-        date: "July 2020 - Present",
+        place: "Dailykit, New Delhi | Remote",
+        date: "July 2020 - June 2022",
+      },
+      {
+        title: "Frontend Engineer",
+        place: "Alterest, London | Bangalore",
+        date: "July 2022 - Present",
       },
     ],
     [t]
